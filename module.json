@@ -22,7 +22,7 @@
       {
         "id": "dnd5e",
         "type": "system",
-        "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+        "manifest": "https://github.com/foundryvtt/dnd5e/system.json",
         "compatibility": {
           "minimum": "2.0.0",
           "verified": "2.0.3"
@@ -209,7 +209,7 @@
     }
   ],
   "url": "https://github.com/aranionros/5e-unofficial",
-  "manifest": "https://github.com/aranionros/5e-unofficial/blob/main/module.json",
-  "download": "https://github.com/aranionros/5e-unofficial/blob/main/5e-unofficial.zip",
+  "manifest": "https://github.com/aranionros/5e-unofficial/module.json",
+  "download": "https://github.com/aranionros/5e-unofficial/5e-unofficial.zip",
   "description": "This module adds classes, subclasses, and other items missing from the D&amp;D 5e SRD"
 }
