@@ -208,8 +208,8 @@
       }
     }
   ],
-  "url": "https://github.com/btbias/5e-complete",
-  "manifest": "https://github.com/btbias/5e-complete/releases/latest/download/module.json",
-  "download": "https://github.com/btbias/5e-complete/releases/download/v0.3.3/module.zip",
+  "url": "https://github.com/aranionros/5e-unofficial",
+  "manifest": "https://github.com/aranionros/5e-unofficial/blob/main/module.json",
+  "download": "https://github.com/aranionros/5e-unofficial/blob/main/5e-unofficial.zip",
   "description": "This module adds classes, subclasses, and other items missing from the D&amp;D 5e SRD"
 }
